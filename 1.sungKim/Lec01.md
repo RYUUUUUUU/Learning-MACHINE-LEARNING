@@ -5,7 +5,7 @@
 ### 1.1. Limitations of explicit programming
 
 1.1.1 Supervised Learning
-![Lec01_01](./img/LEC01_01.png)
+![LEC01_01](./img/LEC01_01.png)
 - learning with labeled examples - training set
 - Image labeling : learning from tagged images
 - Email spam filter : learning from labled (spam or ham) email
