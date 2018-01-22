@@ -5,7 +5,9 @@
 ### 1.1. Limitations of explicit programming
 
 1.1.1 Supervised Learning
+
 ![LEC01_01](./img/LEC01_01.png)
+
 - learning with labeled examples - training set
 - Image labeling : learning from tagged images
 - Email spam filter : learning from labled (spam or ham) email
@@ -20,3 +22,4 @@
 1.1.2 Unsupervised learning : un-labled data
 - Google news grouping
 - Word clustering
+
