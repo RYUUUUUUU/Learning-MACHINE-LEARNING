@@ -13,6 +13,8 @@ TensorFlow is an open software library of Pyrhon for numerical computation using
  - (sudo -H) pip install --upgrade tesnorflow-gpu
 
 ### 2.2.Check installation and version
-> >>import tensorflow as tf
-> >>print(tf.__version__)
-> **1.4.1**
+~~~
+import tensorflow as tf
+print(tf.__version__)
+**1.4.1**
+~~~
